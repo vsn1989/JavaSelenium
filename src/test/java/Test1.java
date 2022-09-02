@@ -56,6 +56,7 @@ public class Test1 {
          boolean flag1=obj.verifyWebElement(By.xpath("//a[@class='btn btn-link navbar-btn']"));
          org.testng.Assert.assertTrue(flag1,"Account not displayed");
          System.out.println("test case passed");
+         System.out.println("test case passed");
     }
 
 }
