@@ -20,5 +20,7 @@ public class Addition {
         System.out.println("Siri");
         System.out.println("Baru");
         System.out.println("Sai");
+        System.out.println("Abc");
+        System.out.println("def");
     }
 }
