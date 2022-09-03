@@ -15,5 +15,7 @@ public class Addition {
         System.out.println("Ashok");
         System.out.println("Ramarao");
         System.out.println("Chaithanya");
+        System.out.println("Suman");
+        System.out.println("Naveen");
     }
 }
