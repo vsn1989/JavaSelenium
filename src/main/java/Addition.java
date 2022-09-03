@@ -12,5 +12,6 @@ public class Addition {
         int  c=a+b;
         System.out.println(c);
         System.out.println("Vanaja");
+        System.out.println("Ashok");
     }
 }
