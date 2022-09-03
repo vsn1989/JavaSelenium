@@ -11,5 +11,17 @@ public class Addition {
         int b=20;
         int  c=a+b;
         System.out.println(c);
+        System.out.println("Vanaja");
+        System.out.println("Ashok");
+        System.out.println("Ramarao");
+        System.out.println("Chaithanya");
+        System.out.println("Suman");
+        System.out.println("Naveen");
+        System.out.println("Siri");
+        System.out.println("Baru");
+        System.out.println("Sai");
+        System.out.println("Abc");
+        System.out.println("def");
+        System.out.println("fgh");
     }
 }
