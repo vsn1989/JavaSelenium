@@ -3,6 +3,7 @@ public class Testmain {
         Test obj = new Test();
         int d = obj.Multi(10,30);
         System.out.println(obj.Div(d));
+        System.out.println(obj.Div(d));
 
     }
     }
