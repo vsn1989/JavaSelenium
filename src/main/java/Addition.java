@@ -14,15 +14,6 @@ public class Addition {
         System.out.println("Vanaja");
         System.out.println("Ashok");
         System.out.println("Ramarao");
-        System.out.println("Chaithanya");
-        System.out.println("Suman");
-        System.out.println("Naveen");
-        System.out.println("Siri");
-        System.out.println("Baru");
-        System.out.println("Sai");
-        System.out.println("Abc");
-        System.out.println("def");
-        System.out.println("fgh");
-        System.out.println("zen");
+
     }
 }
